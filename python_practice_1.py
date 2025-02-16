@@ -1,0 +1,1 @@
+print("Anastasiia Dernova, AI-2025")
